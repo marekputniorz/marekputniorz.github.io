@@ -3,7 +3,6 @@ layout: post
 title:  "Monk mode experiment"
 date:   2024-02-11 12:10
 ---
-## Introduction
 
 I decided that from today I am starting Monk mode. What is it? Monk mode is committing to a goal without distractions. Basically it is way to work and live without any social networks like Facebook, Instagram, Youtube, Twitter etc. For me it is easier because I have only Twitter and Youtube. Also video games and adult sites are prohibited.
 
