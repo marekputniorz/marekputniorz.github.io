@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome on my blog"
-date:   2023-02-06 10:35
+date:   2024-02-06 10:35
 ---
 Hello! My name is Marek and this is my new personal blog where I will publish things about technologies and about life of the normal IT guy.
 I am working now as a DevOps Engineer at Tietoevry which is Nordic company. I live in the city with name Karvina which is located in the Czech Republic near the border with Poland. In my freetime I like reading books on my Kindle, playing video games and workout. 
