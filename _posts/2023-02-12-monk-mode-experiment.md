@@ -10,7 +10,7 @@ I decided that from today I am starting Monk mode. What is it? Monk mode is comm
 
 I planned this experiment for 3 months which is the minimal time for my brain to recover from disctractions which I have already described in previous article. Basicaly I created the program for maximal productivity which consists of exercising, meditation, reading bible or any spiritual or religious book and reading optional book. These activities will have duration of 1 hour only. This is optimal time. I wrote in the beginning that video games are prohibited but I want to have something like "cheat time" for that. So I created 1 hour time slot for playing video games.
 
-But what about the most important thing? Yeah. Work. This is the most interesting part of this experiment. Work is the most important part of this experiment. I will use pomodoro technic for "deep work".
+But what about the most important thing? Yeah. Work. This is the most interesting part of this experiment. I will use pomodoro technic for "deep work".
 
 ## Pomodoro technic
 
